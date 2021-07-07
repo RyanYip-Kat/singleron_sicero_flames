@@ -8,4 +8,5 @@
 #### main pipeline for generate *matrixs from nanopore seq and NGS 
 #### default paramaters
 1.UMI : 45bp
+
 2.cellBC : 24bp
